@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Stem.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Pettles_Outter_Pettles_Inner_Emmission.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Pettles_Outter_Pettles_Inner_Diffuse.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Flower_Testing_Steam.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Flower_Testing_Pettles_Outter.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Flower_Testing_Pettles_Inner.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Dafault_Pettels.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Dafault_Pettels_Inst.uasset",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Level_Glowing_Flower.umap",
+				"C:/Users/24bsalib.bife/Desktop/MissionTesting/Emission_Testing/Content/Blender_Stuff/Flower_BP.uasset"
+			]
+		}
+	]
+}
