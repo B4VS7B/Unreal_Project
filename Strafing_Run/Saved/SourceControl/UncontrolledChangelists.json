@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/zaxky/Documents/GitHub/Unreal_Project/Strafing_Run/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/zaxky/Documents/GitHub/Unreal_Project/Strafing_Run/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zaxky/Documents/GitHub/Unreal_Project/Strafing_Run/Content/Strafing_Run.umap",
+				"C:/Users/zaxky/Documents/GitHub/Unreal_Project/Strafing_Run/Content/StarterContent/Particles/BP_Shot.uasset"
 			]
 		}
 	]
